@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/[...rest]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F%5B...rest%5D&absolutePagePath=%2Fhome%2Faquinas%2Fprojects%2Fdevops%2Fdocker-servers%2Ffinal_docker%2Ffrontend%2Fpages%2F%5B...rest%5D.tsx!","./pages/[...rest].tsx"]}
